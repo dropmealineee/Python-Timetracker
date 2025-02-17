@@ -12,5 +12,5 @@ python time_tracker.py
 ```
 SCREENSHOTS:
 
-![ScrshotTimeTracker](https://github.com/user-attachments/assets/6e736d62-be6c-4bc7-b389-af7f557d23d5)
-![ScrshotTimeLog](https://github.com/user-attachments/assets/e77c9cd4-1394-4d5b-b2f1-687d79bc9759)
+![timelogs](https://github.com/user-attachments/assets/93187200-ec72-4e4b-ab82-2840b53feca9)
+![timetrack](https://github.com/user-attachments/assets/fd0e0cec-fedb-4908-8ae1-df3e07387e79)
