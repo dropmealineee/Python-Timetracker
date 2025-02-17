@@ -4,7 +4,7 @@ SYNPOSIS:
 - Tiny productivity tool written in Python helps you automate the time tracking process, allows you to set custom task durations, monitor progress in real-time and automatically generate detailed logs.
 
 USAGE:
-- [Download time_tracker.py](https://github.com/dropmealineee/Python/blob/main/Timetracker/time_tracker.py)
+- [Download time_tracker.py](https://github.com/dropmealineee/Python-Timetracker/blob/main/time_tracker.py)
 
 Run:
 ```
