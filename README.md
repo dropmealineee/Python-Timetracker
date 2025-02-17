@@ -6,7 +6,7 @@ SYNPOSIS:
 USAGE:
 - [Download time_tracker.py](https://github.com/dropmealineee/Python-Timetracker/blob/main/time_tracker.py)
 
-Run:
+RUN:
 ```
 python time_tracker.py
 ```
